@@ -1,0 +1,19 @@
+Helicopter blender objektum szerkesztése:
+
+1 db Elipsoid mesh
+1 db Cone mesh
+4db Cube mesh ( propellerek)
+
+A cone mesh-en:
+-Beállítottam a scale-t és a rotation x-et 90 fokra.
+-Edit mode-ban Poly build-del megnyújtottam.
+
+
+Propellerek:
+tetején:
+-Beállítottam a scale-t és a rotation z-t 40 és 130 fokra.
+hátsó részen:
+-Beállítottam a scale-t és az egyiknél a rotation y-t 90 fokra.
+
+Színezés:
+Material menüben új materialt adtam, piros színnel.

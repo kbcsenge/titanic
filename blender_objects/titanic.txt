@@ -1,0 +1,35 @@
+Titanic blender objektum szerkesztése:
+
+Kiindulási téglatest:
+-11x Loop cut
+-Poly build és Smooth a csónakforma létrehozásához
+-Bevel modifierrel lekerekített élek
+
+
+Épület: 2 darab téglatest egymásra helyezve
+-Bevel modifierrel lekerekített élek
+
+
+Kémények: 4 darab cylinder mesh
+-Scale x,y,z kordináta mentén
+-Loop cut 
+-Rotation -11 fokkal x irányába 
+->Kábelek: 
+	I: Insert a keyframe
+	E: Execute
+	Lehúzás y irányba és elrendezés
+
+
+Drótoszlopok: 2 darab cylinder mesh
+-Scale x,y,z kordináta mentén
+-Loop cut 
+-Rotation -8 fokkal x irányába 
+->Kábelek: 
+	I: Insert a keyframe
+	E: Execute
+	Lehúzás y irányba és elrendezés
+	+ kábel a két oszlop között ugyanígy
+
+
+Színezés:
+Material menüben új materialt adtam külön-külön a részeknek.
